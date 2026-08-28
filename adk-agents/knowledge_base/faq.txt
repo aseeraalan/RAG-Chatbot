@@ -1,0 +1,5 @@
+Customers can reset their password from the login page by selecting Forgot Password.
+
+Orders are normally processed within two business days.
+
+Customers can contact support by email for account-related issues.
